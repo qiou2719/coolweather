@@ -431,7 +431,8 @@ int drawable bg 0x7f02003e
 int drawable ic_back 0x7f02003f
 int drawable ic_home 0x7f020040
 int drawable ic_launcher 0x7f020041
-int drawable notification_template_icon_bg 0x7f020042
+int drawable logo 0x7f020042
+int drawable notification_template_icon_bg 0x7f020043
 int id action0 0x7f09005c
 int id action_bar 0x7f09003e
 int id action_bar_activity_content 0x7f090003
